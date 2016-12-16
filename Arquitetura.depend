@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1481803281 source:c:\users\hlborges\documents\algoritmos c\arquitetura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+
